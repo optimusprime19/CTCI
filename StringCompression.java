@@ -1,3 +1,14 @@
+/*
+
+problem : 
+Implement a method to perform basic compression using the counts of repeated characters
+For ex - String aabccccccaaa   would become a2b1c6a3
+If the compressed string wouldn't become smaller it should return the same string.
+You can assume the string has only uppercase and lowercase letters
+
+*/
+
+
 package ctci;
 
 import java.util.Scanner;
