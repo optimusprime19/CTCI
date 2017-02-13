@@ -1,3 +1,13 @@
+/*
+
+problem - Write a method to replace all spaces in a string with %20
+
+Input -  Mr John Smith
+Output - Mr%20John%20Smith
+
+*/
+
+
 package ctci;
 
 import java.util.Arrays;
