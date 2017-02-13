@@ -1,3 +1,18 @@
+/*
+problem - There are three type of edits that can be performed on strings
+
+1. insert a character
+2. remove a character
+3. replace a character
+Given two strings, write a function to check if they are one edit (or zero edits) away
+
+Ex:
+pale, ple -> true
+pales, pale -> true
+pale, bale -> true
+pale, bake -> false
+*/
+
 package ctci;
 
 import java.util.Scanner;
